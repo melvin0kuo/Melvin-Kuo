@@ -9,10 +9,16 @@
 ## English Version
 
 ## 👨‍💻 About Me
-I am currently a senior AI major student at [TamKang University](https://tku.edu.tw) in Taiwan. My primary focus is in computer vision, image processing, artificial intelligence, machine learning, and natural language processing (NLP). I have a passion for developing AI models, especially in areas like **semantic segmentation** and **computer vision**.
+I am currently a first-year Master's student in the Department of Electrical Engineering at the National Taipei University of Technology (NTUT), having previously graduated from TamKang University (TKU).
 
-I am also actively involved in AI research and am constantly exploring ways to apply AI in practical scenarios. I have recently applied for the pre-research student qualification in my department and am looking for opportunities to collaborate with professors on cutting-edge AI projects.
+My primary research interests and areas of expertise include:
+* Computer Vision
+* Image Processing
+* Artificial Intelligence
+* Machine Learning
+* Natural Language Processing (NLP)
 
+I am passionate about developing AI models, especially in applications related to **Semantic Segmentation** and **Computer Vision**.
 ## 🔧 Skills
 - **Programming Languages**: Python, C
 - **AI/ML Frameworks**: PyTorch, TensorRT, TensorFlow
@@ -49,10 +55,16 @@ Feel free to reach out if you’re interested in collaborating or just want to c
 ---
 
 ## 👨‍💻 關於我
-我目前是[淡江大學](https://tku.edu.tw)的人工智慧學系四年級學生，專攻電腦視覺、影像處理、人工智慧、機器學習以及自然語言處理（NLP）。我對開發AI模型充滿熱情，尤其是在**語意分割**及**電腦視覺**領域。
+我目前就讀於國立臺北科技大學（NTUT）電機工程系，是一名碩士班一年級的學生。我先前畢業於淡江大學（TKU）。
 
-我積極參與AI研究，並不斷探索如何將AI應用於實際情境中。我最近申請了系上的預研資格，並尋找機會與教授合作進行前沿的AI專案。
+我的主要研究興趣與專業領域集中在：
+* 電腦視覺（Computer Vision）
+* 影像處理（Image Processing）
+* 人工智慧（Artificial Intelligence）
+* 機器學習（Machine Learning）
+* 自然語言處理（NLP）
 
+我對於開發人工智慧模型充滿熱情，特別是在**語意分割（Semantic Segmentation）** 與**電腦視覺**的相關應用。
 ## 🔧 技能
 - **程式語言**：Python, C
 - **AI/ML 框架**：PyTorch, TensorRT, TensorFlow
